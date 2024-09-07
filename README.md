@@ -13,4 +13,4 @@ Usefull for:
 
 There is a short cut file in the repo that runs the app, you can either run the app from that shortcut or make another shortcut to the shortcut or find the original .exe file
 
-App is still under development and will be maintained.
+App is still under development and uncertained.
